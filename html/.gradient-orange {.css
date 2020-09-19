@@ -1,0 +1,295 @@
+.gradient-orange {
+  background-image: -moz-linear-gradient(45deg, #fc6200, #ee762c);
+  background-image: -webkit-gradient(
+    45deg,
+    linear,
+    0% 0%,
+    0% 100%,
+    from(#fc6200),
+    to(#ee762c)
+  );
+  background-image: -webkit-linear-gradient(45deg, #fc6200, #ee762c);
+  background-image: -o-linear-gradient(45deg, #fc6200, #ee762c);
+}
+.gradient-orange *:not(.dropdown-item) {
+  color: #ffffff;
+}
+.gradient-orange figure {
+  border: 0;
+}
+.gradient-orange .progress.light {
+  background: rgba(32, 38, 62, 0.15);
+}
+.gradient-orange .progress.light.bottom {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.gradient-orange .progress-sm.light {
+  opacity: 0.5;
+}
+.gradient-orange hr {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.gradient-orange .text-secondary,
+.gradient-orange .media .media-body h4 + p,
+.gradient-orange .media .media-body h5 + p,
+.gradient-orange small {
+  color: #ffffff !important;
+  opacity: 0.8;
+}
+.gradient-orange .border-right,
+.gradient-orange .border-top,
+.gradient-orange .border-left,
+.gradient-orange .border-bottom,
+.gradient-orange .modal-header,
+.gradient-orange .modal-footer {
+  border-color: rgba(255, 255, 255, 0.25) !important;
+}
+.gradient-orange .form-group.float-label .form-control.active + label,
+.gradient-orange .form-group.float-label label {
+  color: #ffffff;
+  opacity: 0.8;
+}
+.gradient-orange .form-group.float-label .form-control:focus + label {
+  color: #ffffff;
+  opacity: 1;
+}
+.gradient-orange .form-group.float-label .form-control {
+  border-bottom-color: rgba(255, 255, 255, 0.5);
+  color: #ffffff;
+}
+.gradient-orange .form-group.float-label .form-control:focus {
+  border-bottom-color: #ffffff;
+  opacity: 1;
+}
+body
+  .wrapper
+  > header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item
+  .nav-link,
+body .wrapper > header .navbar.gradient-orange .navbar-nav .nav-item .nav-link,
+body .wrapper .header .navbar .gradient-orange .navbar-nav .nav-item .nav-link,
+body .wrapper .header .navbar.gradient-orange .navbar-nav .nav-item .nav-link {
+  color: rgba(255, 255, 255, 0.9);
+}
+body
+  .wrapper
+  > header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item:hover
+  .nav-link,
+body
+  .wrapper
+  > header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item:focus
+  .nav-link,
+body
+  .wrapper
+  > header
+  .navbar.gradient-orange
+  .navbar-nav
+  .nav-item:hover
+  .nav-link,
+body
+  .wrapper
+  > header
+  .navbar.gradient-orange
+  .navbar-nav
+  .nav-item:focus
+  .nav-link,
+body
+  .wrapper
+  .header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item:hover
+  .nav-link,
+body
+  .wrapper
+  .header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item:focus
+  .nav-link,
+body
+  .wrapper
+  .header
+  .navbar.gradient-orange
+  .navbar-nav
+  .nav-item:hover
+  .nav-link,
+body
+  .wrapper
+  .header
+  .navbar.gradient-orange
+  .navbar-nav
+  .nav-item:focus
+  .nav-link
+{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+body
+  .wrapper
+  > header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item.active
+  .nav-link,
+body
+  .wrapper
+  > header
+  .navbar.gradient-orange
+  .navbar-nav
+  .nav-item.active
+  .nav-link,
+body
+  .wrapper
+  .header
+  .navbar
+  .gradient-orange
+  .navbar-nav
+  .nav-item.active
+  .nav-link,
+body
+  .wrapper
+  .header
+  .navbar.gradient-orange
+  .navbar-nav
+  .nav-item.active
+  .nav-link
+{
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
+
+body .wrapper > header .navbar .gradient-orange .user-profile .h5 span,
+body .wrapper > header .navbar .gradient-orange .navbar-brand h5 span,
+body .wrapper > header .navbar.gradient-orange .user-profile .h5 span,
+body .wrapper > header .navbar.gradient-orange .navbar-brand h5 span,
+body .wrapper .header .navbar .gradient-orange .user-profile .h5 span,
+body .wrapper .header .navbar .gradient-orange .navbar-brand h5 span,
+body .wrapper .header .navbar.gradient-orange .user-profile .h5 span,
+body .wrapper .header .navbar.gradient-orange .navbar-brand h5 span {
+  color: #fff;
+}
+body .wrapper .sidebar .gradient-orange .nav:not(.nav-tabs) li,
+body .wrapper .sidebar.gradient-orange .nav:not(.nav-tabs) li {
+  color: #fff;
+}
+body .wrapper .sidebar .gradient-orange .nav:not(.nav-tabs) li a,
+body .wrapper .sidebar.gradient-orange .nav:not(.nav-tabs) li a {
+  color: #fff;
+}
+body .wrapper .sidebar .gradient-orange .nav:not(.nav-tabs) li a.active,
+body .wrapper .sidebar.gradient-orange .nav:not(.nav-tabs) li a.active {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+body .wrapper .sidebar .gradient-orange .nav:not(.nav-tabs) li a:hover,
+body .wrapper .sidebar.gradient-orange .nav:not(.nav-tabs) li a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-left: 3px solid #fff;
+}
+body .wrapper .sidebar .gradient-orange .media,
+body .wrapper .sidebar.gradient-orange .media {
+  color: #fff;
+}
+body .wrapper .sidebar .gradient-orange .media h5,
+body .wrapper .sidebar.gradient-orange .media h5 {
+  color: #fff;
+}
+body .wrapper .sidebar .gradient-orange .icon-menu:not(.nav-tabs) li a,
+body .wrapper .sidebar.gradient-orange .icon-menu:not(.nav-tabs) li a {
+  color: #fff;
+}
+body .wrapper .sidebar .gradient-orange .icon-menu:not(.nav-tabs) li a.active,
+body .wrapper .sidebar.gradient-orange .icon-menu:not(.nav-tabs) li a.active {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+body .wrapper .sidebar .gradient-orange .icon-menu:not(.nav-tabs) li a:hover,
+body .wrapper .sidebar.gradient-orange .icon-menu:not(.nav-tabs) li a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff !important;
+}
+body
+  .wrapper
+  .sidebar
+  .gradient-orange
+  .icon-menu:not(.nav-tabs)
+  li
+  a
+  i:not(.bg-white):not(.bg-light):not(.figure),
+body
+  .wrapper
+  .sidebar.gradient-orange
+  .icon-menu:not(.nav-tabs)
+  li
+  a
+  i:not(.bg-white):not(.bg-light):not(.figure) {
+  color: #fff !important;
+}
+.dropdown-menu.gradient-orange {
+  border: 0;
+}
+.dropdown-menu.gradient-orange .dropdown-item:hover a {
+  background: rgba(255, 255, 255, 0.1);
+  border-left: 3px solid #fff;
+}
+.dropdown-menu.gradient-orange .userlist .item:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-left: 3px solid #fff;
+}
+.nav-tabs.gradient-orange .active {
+  border-bottom-color: rgba(255, 255, 255, 0.6);
+}
+.gradient-orange .title {
+  border-bottom-color: rgba(255, 255, 255, 0.2);
+}
+.gradient-orange > .quicklinks .item a {
+  border: 0 !important;
+}
+.gradient-orange > .quicklinks .item a i {
+  color: #ffffff;
+}
+.gradient-orange > .quicklinks .item a span {
+  color: #ffffff;
+}
+.gradient-orange > .quicklinks .item a:hover i {
+  -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05) !important;
+  -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05) !important;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05) !important;
+}
+.chat li.left .gradient-orange:before {
+  border-right-color: #fc6200 !important;
+}
+.chat li.right .gradient-orange:before {
+  border-left-color: #fc6200 !important;
+}
+.gradient-orange .chat-body.bg-light {
+  background: #ffffff !important;
+}
+.gradient-orange .chat-body.bg-light * {
+  color: #000000 !important;
+}
+.gradient-orange .chat-body.bg-light *.text-secondary {
+  color: #8596ae !important;
+}
+.gradient-orange .dropdown-menu .dropdown-item i {
+  color: #8596ae !important;
+  margin-right: 5px;
+}
+.gradient-orange .dropdown-menu .dropdown-item:active i {
+  color: #ffffff !important;
+}
